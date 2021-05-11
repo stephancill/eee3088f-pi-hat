@@ -1,1 +1,2 @@
 # eee3088f-pi-hat
+Mixing and visualizing analog audio input. The HAT will have an audio input which will be processed by a series of subsystems e.g. EQ and volume controls and indicators and will be outputted on an analog audio output which will be accessible to the Pi as well. 
